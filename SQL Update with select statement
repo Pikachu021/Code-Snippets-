@@ -1,3 +1,5 @@
+'''
+
 DECLARE @FirstTable Table (Col1 int, Col2 int)
 insert into @FirstTable 
 values (1,2)
@@ -29,3 +31,5 @@ FROM
 	@FirstTable as T
 INNER JOIN T1
 	ON T.Col1 = T1.A
+
+'''
