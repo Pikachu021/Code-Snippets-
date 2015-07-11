@@ -29,3 +29,4 @@ FROM
 	@FirstTable as T
 INNER JOIN T1
 	ON T.Col1 = T1.A
+	
