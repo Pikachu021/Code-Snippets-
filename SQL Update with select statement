@@ -8,7 +8,7 @@ insert into @FirstTable
 values (5,6) 
 insert into @FirstTable 
 values (7,8)
-
+```
 
 ;WITH T1 AS (
 
