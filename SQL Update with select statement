@@ -1,4 +1,4 @@
-'''
+```
 
 DECLARE @FirstTable Table (Col1 int, Col2 int)
 insert into @FirstTable 
@@ -32,4 +32,4 @@ FROM
 INNER JOIN T1
 	ON T.Col1 = T1.A
 
-'''
+```
